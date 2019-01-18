@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "Azo-Sans-Light";
+  src: local('Azo-Sans-Light'), url("./css/fonts/Azo-Sans-Light/Azo-Sans-Light.eot");
+  src: 
+  url("./css/fonts/Azo-Sans-Light/Azo-Sans-Light.woff") format("woff"),
+  url("./css/fonts/Azo-Sans-Light/Azo-Sans-Light.ttf") format("truetype"),
+  url("./css/fonts/Azo-Sans-Light/Azo-Sans-Light.svg#filename") format("svg");
+}
+
+@font-face {
+  font-family: "Azo-Sans-Bold";
+  src: local('Azo-Sans-Bold'), url("./css/fonts/Azo-Sans-Bold/Azo-Sans-Bold.eot");
+  src: 
+  url("./css/fonts/Azo-Sans-Bold/Azo-Sans-Bold.woff") format("woff"),
+  url("./css/fonts/Azo-Sans-Bold/Azo-Sans-Bold.ttf") format("truetype"),
+  url("./css/fonts/Azo-Sans-Bold/Azo-Sans-Bold.svg#filename") format("svg");
+}
+
+@font-face {
+  font-family: "Azo-Sans";
+  src: local('Azo-Sans'), url("./css/fonts/Azo-Sans/Azo-Sans.eot");
+  src: 
+  url("./css/fonts/Azo-Sans/Azo-Sans.woff") format("woff"),
+  url("./css/fonts/Azo-Sans/Azo-Sans.ttf") format("truetype"),
+  url("./css/fonts/Azo-Sans/Azo-Sans.svg#filename") format("svg");
+}

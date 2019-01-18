@@ -1,0 +1,31 @@
+.custom-button {
+    background-color: #ed1f34;
+    color: #fff;
+    border: 0;
+    border-radius: 5px;
+    text-transform: uppercase;
+    height: 44px;
+    text-align: center;
+    font-family: 'Azo-Sans-Bold', Arial, sans-serif;
+    width: 100%;
+    margin-top: 13px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.custom-button:focus {
+    outline-width: 0;
+}
+
+@media (min-width: 768px) {
+    .custom-button {
+        width:150px;
+        height: 52px;
+        margin-top: -4px;
+        margin-left: 20px;
+        font-size: 20px;
+        padding-top: 5px;
+
+
+    }
+}

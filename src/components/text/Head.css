@@ -1,0 +1,44 @@
+@font-face {
+    font-family: "Elaine_D02";
+    src: local('Elaine_D02'), url("../../css/fonts/Elaine_D02/Elaine_D02.eot");
+    src: 
+    url("../../css/fonts/Elaine_D02/Elaine_D02.woff") format("woff"),
+    url("../../css/fonts/Elaine_D02/Elaine_D02.ttf") format("truetype"),
+    url("../../css/fonts/Elaine_D02/Elaine_D02.svg#filename") format("svg");
+}
+
+.head {
+    color: #b6fdbf;
+    text-transform: lowercase;
+    font-family: 'Elaine_D02', Arial, sans-serif;
+    font-weight:normal;
+    font-style:normal;
+    font-size: 36px;
+    line-height: 36px;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+@media (min-width: 768px) {
+    .head {
+        font-size: 50px;
+        line-height: 60px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .head {
+        font-size: 60px;
+        line-height: 60px;
+        text-align: left;
+    }
+}
+
+@media (min-width: 1440px) {
+    .head {
+        font-size: 80px;
+        line-height: 130px;
+    }
+}
+

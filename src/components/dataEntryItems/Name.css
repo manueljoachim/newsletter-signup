@@ -1,0 +1,11 @@
+input.first-name {
+  margin-right: 5px;
+}
+
+input.last-name {
+    margin-left: 5px;
+  }
+
+input.first-name, input.last-name {
+    width: calc( 50% - 5px); 
+}
